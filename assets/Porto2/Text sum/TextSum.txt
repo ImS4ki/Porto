@@ -1,0 +1,5 @@
+Category : NLP
+Method : BERT as feature extraction and SEQ2SEQ for summary generation.
+
+Project Background : The increasing amount of information available in digital formats creates problems in information retention because of a few reasons. Information overload and Time efficiency are to name a few. So my team created a web based text summarizer to shorten long paragraphs without losing important context and information.
+Dataset : We used CNNC Daily Mail dataset.

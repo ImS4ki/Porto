@@ -1,0 +1,6 @@
+Category : Model Machine Learning
+Method : AKAZE, SIFT, ORB Matching
+
+Background : I wanted to create a model to recognize if a specific picture of a product can be found in a picture of multiple products. I used SIFT, ORB and AKAZE algorithms to search for keypoint and descriptions to match the specific product. 
+
+Google Colab Link : https://colab.research.google.com/drive/1zUAn7uVHbVAKWLLJf2CZ5RzoKfrBzS-u?usp=sharing

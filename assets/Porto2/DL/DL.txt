@@ -1,0 +1,7 @@
+Category : Model Machine Learning
+Method : Creating Model from Scratch
+
+Background : The aim of this project is to create a model to do image detection capable of recognizing and classifying playing cards from various pictures.
+
+Google Colab link : https://colab.research.google.com/drive/1zSV9gY4HGfIXfNYTn08tRUSQYxDseyPP?usp=sharing
+Dataset : https://drive.google.com/drive/folders/1PBRtVMjmG7KBFEDB0fO3bGCAczXU8FUD?usp=drive_link

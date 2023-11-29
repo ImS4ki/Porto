@@ -1,0 +1,15 @@
+Languages :
+english 100%
+indo 90%
+
+Skills:
+C++ 60%
+MySQL 70%
+Python 70%
+Tensorflow/Keras 60%
+Java 30%
+
+Porto :
+Text summarization : Me and my team created a text summarizer using BERT as feature extraction and SEQ2SEQ for summary generation.
+CV : I used computer vision methods to pinpoint keypoints and descriptors from the pictures given.
+DL : I created a model from scratch to create image calssification using deep learning techniques.
